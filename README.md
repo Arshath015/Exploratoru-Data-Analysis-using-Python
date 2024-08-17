@@ -3,14 +3,16 @@
 This repository contains an Exploratory Data Analysis (EDA) of the Student Performance dataset. The analysis covers data exploration, cleaning, and visualization to understand student performance metrics better.
 
 # Dataset
+ -The dataset used is StudentsPerformance.csv, which includes student performance data across different subjects, parental level of education, race/ethnicity, and gender.
 
-The dataset used is StudentsPerformance.csv, which includes student performance data across different subjects, parental level of education, race/ethnicity, and gender.
-import pandas as pd
-import numpy as np
-import seaborn as sns
+      import pandas as pd
+      import numpy as np
+      import seaborn as sns
 
-# Load the dataset
-data = pd.read_csv(r"D:\Projects\EDA\StudentsPerformance.csv")
+      # Load the dataset
+      data = pd.read_csv(r"D:\Projects\EDA\StudentsPerformance.csv")
+
+
 
 
 # Steps and Analysis

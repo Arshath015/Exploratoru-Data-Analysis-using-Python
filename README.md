@@ -12,6 +12,8 @@ This repository contains an Exploratory Data Analysis (EDA) of the Student Perfo
       # Load the dataset
       data = pd.read_csv(r"D:\Projects\EDA\StudentsPerformance.csv")
 
+      #link https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+
 
 
 

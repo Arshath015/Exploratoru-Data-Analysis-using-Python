@@ -13,16 +13,22 @@ The dataset used is StudentsPerformance.csv, which includes student performance 
  -Initial Data Exploration
        Displayed the first and last few rows of the dataset to understand its structure.Checked the shape of the dataset and reviewed basic statistics.
 Examined column names and unique values in specific columns.Checked for missing values to assess data completeness.
+
  -Data Cleaning
        Removed unnecessary columns that are not relevant for the analysis, specifically race/ethnicity and parental level of education.
+ 
  -Correlation Analysis
        Selected numerical columns and computed their correlations.Visualized the correlation matrix using a heatmap to understand the relationships between different scores.
+ 
  -Pair Plot
        Created pair plots to explore the relationships between math, reading, and writing scores.
+ 
  -Relationship Plots
        Visualized relationships between different scores (math, reading, writing) with color-coded gender information to understand how gender affects performance.
+ 
  -Distribution Plots
        Plotted histograms with Kernel Density Estimate (KDE) for math, reading, and writing scores to visualize their distributions.
+ 
  -Box Plot
        Created a box plot for math scores to visualize the distribution and detect potential outliers.
        
